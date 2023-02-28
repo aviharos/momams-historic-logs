@@ -20,8 +20,9 @@ This repository contains data collected from SMEs in which MOMAMS was installed.
 
 Each of the following links refer to a separate SME:
 
-- [1](1)
-- [2](2)
+- [company_1](company_1)
+- [company_2](company_2)
+- [company_3](company_3)
 
 ## License
 
